@@ -222,8 +222,6 @@ footer div {
         margin: 4px auto !important;
     }
     section {
-        margin-top: 50px !important;
-        margin-bottom: 30px !important;
     }
     header h1 {
         margin: 0px auto !important;
@@ -231,7 +229,7 @@ footer div {
         font-size: 80% !important;
     }
     .container-fluid h1, .container-fluid h2 {
-        font-size: 120% !important;
+        font-size: 140% !important;
     }
     .rounded-separator-h1-bottom {
         margin-bottom: 50px;
